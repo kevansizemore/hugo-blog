@@ -1,0 +1,46 @@
+{{ define "main" }}
+<content>
+  {{ if .Data.Singular }}
+  <h3 style="margin-bottom:0">Filter: articles tagged with #{{ .Title }}</h3>
+  <a href="{{ "/blog" | relURL }}">Remove filter</a>
+  {{ end }}
+  <h1>Blog</h1>
+  <p>I've written and published {{ len (where .Site.RegularPages "Type" "blog") }} articles since March 16, 2009 about a variety of subjects:<br /><br />
+  	{{ range .Site.Taxonomies.tags }}
+	<a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+	{{ end }}
+  </p>
+  <p>
+  Feel free to start with a tag that interests you. You can also scroll (or search!) through the complete list below. The most recent articles are at the top. I hope you find at least one helpful or enjoyable article.
+  </p>
+  <hr />
+  <br />
+  <ul class="blog-posts">
+    {{ range .Pages }}
+    <p>
+      <a href="{{ .Permalink }}" class="blog-list-title">{{ .Title }}</a><br />
+      {{ .Page.Description }}<br />
+	  <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+	    {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+	  </time> | 
+	  ~ {{ .Page.FuzzyWordCount }} words | 
+	  ~ {{ .Page.ReadingTime}} minutes<br />
+	  {{ range (.GetTerms "tags") }}
+	  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+	  {{ end }}
+	<br /><br />
+    </p>
+    {{ else }}
+    <li>
+      No posts yet
+    </li>
+    {{ end }}
+  </ul>
+  {{ if .Data.Singular }}
+  {{else}}
+  <p>
+  <strong>Congratulations!</strong> You've reached the end of my blog post listing. You've ventured beyond where most readers travel. This paragraph rejoices becauses you've illuminated its long-hidden existence with your presence!
+  </p>
+  {{ end }}
+</content>
+{{ end }}

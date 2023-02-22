@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ if eq .Type "blog" }}{{ if not .Params.menu }}
+<h1>{{ .Title }}</h1>
+<p>
+	<time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+		{{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+	</time> | 
+	~{{ .Page.FuzzyWordCount }} words |
+	~{{ .Page.ReadingTime}} minutes<br />
+	{{ range (.GetTerms "tags") }}
+	<a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+	{{ end }}
+</p>
+{{ end }}{{ end }}
+<content>
+  {{ .Content }}
+</content>
+{{ end }}

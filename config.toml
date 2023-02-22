@@ -1,0 +1,25 @@
+# Basic configuration
+baseURL = "https://kevansizemore.com"
+title = "KevanSizemore.com"
+author = "Kevan M. Sizemore"
+languageCode = "en-US"
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[permalinks]
+  blog = "/blog/:year/:month:/:day/:slug/"
+  tags = "/blog/:slug"
+
+[params]
+  title = "KevanSizemore.com"
+  author = "Kevan M. Sizemore"
+  authorSummary = "Technologist. Educator. Storyteller. Lifelong Learner."
+  authorEmail = "kevan.sizemore@gmail.com"
+  authorLinkedIn = "https://www.linkedin.com/in/kevanmsizemore/"
+  description = "This site is a great place to learn more about me, some of my creative or technical projects, publications, and social networks. Thank you for visiting."
+  favicon = "images/favicon.png"
+

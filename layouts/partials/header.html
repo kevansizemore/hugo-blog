@@ -1,0 +1,11 @@
+<a href="{{ "/blog" | relURL }}" class="title">
+  <h1>{{ .Site.Title }}</h1>
+</a>
+<nav>{{- partial "nav.html" . -}}</nav>
+<p>
+	Written by <strong>{{ .Site.Params.author }}</strong>.<br />
+	{{ .Site.Params.authorSummary }}<br />
+	<a href="mailto:{{ .Site.Params.authorEmail }}" target="_blank" rel="noopener noreferrer">email</a> | 
+	<a href="{{ .Site.Params.authorLinkedIn }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+	<br />
+</p>
