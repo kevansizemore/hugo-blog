@@ -29,31 +29,30 @@ title = "Bookmarks"
 
 ## Development
 
-- [Adobe Color]()
-- [Android Developers]()
-- [Apple Developer]()
-- [BitBucket]()
-- [Channel 9 - [MSDN Videos]()
-- [Creative Commons]()
-- [CSS-Tricks]()
-- [Design Panoply]()
-- [Envato]()
-- [Git]()
-- [GitHub]()
-- [GitLab]()
-- [Google Developers]()
-- [microjs Frameworks and Libraries]()
-- [Microsoft Design]()
-- [Microsoft Docs]()
-- [Oracle Documentation]()
-- [Python Programming Language]()
-- [Royalty Free Music]()
-- [The Best Designs]()
-- [The Rapid eLearning Blog]()
-- [Ubuntu App Developer]()
-- [W3Schools]()
-- [WebPageTest]()
-- [World Wide Web Consortium (W3C)]()
+- [Adobe Color](https://color.adobe.com/)
+- [Android Developers](https://developer.android.com/)
+- [Apple Developer](https://developer.apple.com/)
+- [Creative Commons](https://creativecommons.org/)
+- [CSS-Tricks](https://css-tricks.com/)
+- [Design Panoply](https://designpanoply.com/)
+- [Envato](https://www.envato.com/)
+- [Git](https://www.git-scm.com/)
+- [GitHub](https://github.com/)
+- [GitLab](https://about.gitlab.com/)
+- [GTmetrix](https://gtmetrix.com/)
+- [Google Developers](https://developers.google.com/)
+- [Microsoft Design](https://www.microsoft.com/design/)
+- [Microsoft Learn](https://learn.microsoft.com/)
+- [Mozilla Developer Network](https://developer.mozilla.org/)
+- [Oracle Documentation](https://docs.oracle.com/)
+- [PageSpeed Insights](https://pagespeed.web.dev/)
+- [Python Programming Language](https://www.python.org/)
+- [Royalty Free Music](https://incompetech.com/music/royalty-free/)
+- [SSL Server Test](https://www.ssllabs.com/ssltest/)
+- [The Rapid eLearning Blog](https://blogs.articulate.com/rapid-elearning/)
+- [W3Schools](https://www.w3schools.com/)
+- [WebPageTest](https://www.webpagetest.org/)
+- [World Wide Web Consortium (W3C)](https://www.w3.org/)
 
 [Return to categories list.](#top)
 
@@ -61,22 +60,22 @@ title = "Bookmarks"
 
 ## Financial Services
 
-- [Ally Bank]()
-- [Amazon.com Credit]()
-- [American Express]()
-- [Bank of America]()
-- [Barclaycard]()
-- [Capital One]()
-- [CHASE Bank]()
-- [Citibank]()
-- [Discover]()
-- [Fidelity Investments]()
-- [Home Depot Credit]()
-- [Liberty Mutual]()
-- [Nelnet]()
-- [PayPal]()
-- [Rocket Mortgage]()
-- [Wealthfront]()
+- [Ally Bank](https://www.ally.com/)
+- [Amazon.com Credit](https://amazon.syf.com/accounts/login/)
+- [American Express](https://www.americanexpress.com/)
+- [Bank of America](https://www.bankofamerica.com/)
+- [Barclaycard](https://www.barclaycardus.com/)
+- [Capital One](https://www.capitalone.com/)
+- [CHASE Bank](https://www.chase.com/)
+- [Citibank](https://online.citibank.com/)
+- [Discover](https://www.discover.com/)
+- [Fidelity Investments](https://401k.fidelity.com/)
+- [Home Depot Credit](https://citiretailservices.citibankonline.com/RSnextgen/svc/launch/index.action?siteId=PLCN_HOMEDEPOT#signon)
+- [Liberty Mutual](https://www.libertymutual.com/)
+- [Nelnet](https://www.nelnet.com/)
+- [PayPal](https://www.paypal.com/)
+- [Rocket Mortgage](https://www.rocketmortgage.com/)
+- [Wealthfront](https://www.wealthfront.com/)
 
 [Return to categories list.](#top)
 
@@ -84,15 +83,15 @@ title = "Bookmarks"
 
 ## Firearms 
 
-- [American Rifleman]()
-- [Gun Owners of America]()
-- [Midway USA]()
-- [National Rifle Association]()
-- [Norfolk County Rifle Range]()
-- [Pyramid Air Gun Mall]()
-- [Shooting Illustrated]()
-- [Virginia Citizens Defense League]()
-- [Virginia Shooting Sports Association]()
+- [American Rifleman](https://www.americanrifleman.org/)
+- [Gun Owners of America](https://gunowners.org/)
+- [Midway USA](https://www.midwayusa.com/)
+- [National Rifle Association](https://nra.org/)
+- [Norfolk County Rifle Range](https://www.ncrr.net/)
+- [Pyramid Air Gun Mall](https://www.pyramydair.com/)
+- [Shooting Illustrated](https://www.shootingillustrated.com/)
+- [Virginia Citizens Defense League](https://www.vcdl.org/)
+- [Virginia Shooting Sports Association](https://www.myvssa.org/)
 
 [Return to categories list.](#top)
 
@@ -123,6 +122,7 @@ title = "Bookmarks"
 - [Blizzard]()
 - [Electronic Arts]()
 - [Firaxis]()
+- [GOG]()
 - [Skyrim Wiki]()
 - [Steam]()
 - [Valve]()
@@ -288,16 +288,16 @@ title = "Bookmarks"
 
 ## Utilities 
 
-- [Charter Spectrum Communications]()
-- [Columbia Gas of Virginia]()
-- [Dominion Energy]()
-- [HRUBS / Hampton Roads Sanitation District]()
-- [Verizon Wireless]()
+- [Charter Spectrum Communications](https://www.spectrum.net/)
+- [Columbia Gas of Virginia](https://www.columbiagasva.com/)
+- [Dominion Energy](https://www.dom.com/)
+- [HRUBS / Hampton Roads Sanitation District](https://www.hrsd.com/)
+- [Verizon Wireless](https://www.verizonwireless.com/)
 
 [Return to categories list.](#top)
 
 ---
 
-Last validated on February 21, 2023.
+Last validated on February 22, 2023.
 
 
