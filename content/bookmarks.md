@@ -61,7 +61,7 @@ title = "Bookmarks"
 ## Financial Services
 
 - [Ally Bank](https://www.ally.com/)
-- [Amazon.com Credit](https://amazon.syf.com/accounts/login/)
+- [Amazon.com and Newegg.com Credit](https://consumercenter.mysynchrony.com/consumercenter/login/?client=paysol)
 - [American Express](https://www.americanexpress.com/)
 - [Bank of America](https://www.bankofamerica.com/)
 - [Barclaycard](https://www.barclaycardus.com/)
@@ -101,15 +101,22 @@ title = "Bookmarks"
 
 - [Allrecipes]()
 - [America’s Test Kitchen]()
-- [ChefSteps]()
+- [Captain Chuck-A-Mucks](https://www.facebook.com/captainchuckamucks/)
+- [Cockeyed Rooster Cafe]()
 - [Cook's Illustrated]()
-- [Domino's Pizza]()
+- [Cure Coffee House](https://www.curecoffeehouse.com/)
 - [Epicurious]()
 - [Fine Cooking]()
+- [La Parilla Mexican Grill](https://laparrillamexicangrill.us/)
 - [OpenTable]()
-- [Papa John’s Pizza]()
+- [Papa John’s Pizza](https://www.papajohns.com/)
+- [Q Daddy's BBQ](https://www.qdaddysbbq.com/)
+- [Smithfield Station](https://smithfieldstation.com/)
 - [Starbucks Coffee Company]()
-- [Yelp]()
+- [Taste of Smithfield](https://www.tasteofsmithfield.com/)
+- [Taste Unlimited](https://www.tasteunlimited.com/)
+- [Tropical Smoothie Cafe](https://www.tropicalsmoothiecafe.com/)
+- [Yelp](https://www.yelp.com/)
 
 [Return to categories list.](#top)
 
@@ -123,9 +130,10 @@ title = "Bookmarks"
 - [Electronic Arts]()
 - [Firaxis]()
 - [GOG]()
+- [Guild Wars 2]()
 - [Skyrim Wiki]()
 - [Steam]()
-- [Valve]()
+- [Ubisoft]()
 
 [Return to categories list.](#top)
 
@@ -174,10 +182,7 @@ title = "Bookmarks"
 - [Literature and Latte]()
 - [Noodlesoft Hazel]()
 - [Objective Development]()
-- [Omni Group]()
-- [Parallels]()
 - [Path Finder]()
-- [Smile Software]()
 
 [Return to categories list.](#top)
 
