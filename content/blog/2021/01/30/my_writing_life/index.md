@@ -25,7 +25,7 @@ I'm a writer because I write out of necessity, not compulsion.
 
 #### 1. Daybooks and Notebooks
 
-You're likely familiar with a notebook, although I suspect some readers are less familiar with the concept of a daybook. I first encountered the idea of keeping a daybook while reading [The Essential Don Murray](https://www.amazon.com/Essential-Don-Murray-Americas-Greatest/dp/0867096004). I keep a couple of daybooks handy most of the time. One of them is a "general purpose" book for capturing a variety of personal & professional notes, ideas, lists, journal entries, and more. I also have a small notebook I keep with me as part of my "every day carry" things (e.g., wallet, keys, pens, flashlight, knife, keys). 
+You're likely familiar with a notebook, although I suspect some readers are less familiar with the concept of a daybook. I first encountered the idea of keeping a daybook while reading [The Essential Don Murray](https://www.amazon.com/Essential-Don-Murray-Americas-Greatest/dp/0867096004). I keep a couple of daybooks handy most of the time. One of them is a "general purpose" book for capturing a variety of personal & professional notes, ideas, lists, journal entries, and more. I also have a small notebook I keep with me as part of my "every day carry" things (e.g., wallet, pens, flashlight, knife, keys). 
 
 The idea is always to have a daybook nearby whether I'm at my desk or out and about. There are few (if any) rules for keeping a daybook other than to use it often and to write as honestly & transparently as possible (it's exceedingly difficult to deceive your future self). Daybooks are a safe place for experiments, sketches, and mistakes in the pursuit of possibility.
 

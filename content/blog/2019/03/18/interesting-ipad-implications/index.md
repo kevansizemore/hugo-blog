@@ -5,7 +5,8 @@ description: "Apple's latest batch of iPads offer signs of continued support for
 tags: ["technology", "apple", "ipad"]
 ---
 
-![2019 Apple iPad Air](https://kmsmedia.kevansizemore.com/image/2019-03-18_interesting-ipad-implications-hero.jpg)
+![2019 Apple iPad Air](https://kmsmedia.kevansizemore.com/image/2019-03-18_interesting-ipad-implications-hero.jpg) 
+
 *Image source: Apple*
 
 Today Apple announced the 2019 versions of the [iPad Air and iPad Mini](https://www.apple.com/newsroom/2019/03/all-new-ipad-air-and-ipad-mini-deliver-dramatic-power-and-capability/).  As the owner of a [10.5" Apple iPad Pro](https://www.pcmag.com/reviews/apple-ipad-pro-105-inch) purchased in late 2017, the most interesting part of the announcement was **not** the new iPads, but rather the accessories promoted along with the new 10.5" iPad Air: the first generation [Apple Smart Keyboard](https://www.apple.com/smart-keyboard/) and [Apple Pencil](https://www.apple.com/apple-pencil/). This adds credibility to the idea Apple's VP of Environment, Policy, and Social Initiatives, Lisa Jackson, conveyed about [creating durable products expected to have a longer lifecyle](https://www.cultofmac.com/575729/lisa-jackson-apple-environmental-efforts/).
