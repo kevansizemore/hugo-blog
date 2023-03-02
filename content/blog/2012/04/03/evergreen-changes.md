@@ -9,7 +9,7 @@ tags: ["reflection", "writing"]
 
 I recently read *10 Evergreen Strategies To Boost Your Freelance Writing Career* by Michael Chibuzor and it resonated with me on several levels. It surprised me how applicable this concept was to things other than writing!
 
-The most obvious application relates to writing and publishing blog articles. Ideally, my blog articles should be “evergreen” in the sense that each idea, observation, and occasional insight will retain value well beyond the point in time it was written. As Michael pointed out in his article, just as evergreen trees retain their foliage throughout the year; evergreen writers strive to develop content that’s fresh and popular long-term.
+The most obvious application relates to writing and publishing blog articles. Ideally, my blog articles should be “evergreen” in the sense that each idea, observation, and occasional insight will retain value well beyond the point in time it was written. As Michael pointed out in his article, just as evergreen trees retain their foliage throughout the year, evergreen writers strive to develop content that’s fresh and popular long-term.
 
 As a writer, I try to avoid low-value content that's short-lived. Unfortunately, some of my posts are likely to be low-value content (e.g., [55 Warning Signs You Might Be a Nerd](https://kevansizemore.com/blog/2011/10/07/55-warning-signs-you-might-be-a-nerd/)). Admittedly, I found amusement in writing that (and I still do). Even so, I aspire to write meaningful articles again. I’ve considered renaming my blog ‘Evergreen Musings’ as a reflection of my commitment to change.
 
