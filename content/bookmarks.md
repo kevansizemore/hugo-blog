@@ -198,19 +198,21 @@ title = "Bookmarks"
 
 ## Security 
 
-- [(ISC)²]()
-- [BackTrack Penetration Testing]()
-- [Comodo]()
-- [EC Council]()
-- [Google Safety Center]()
-- [Insecure.Org]()
-- [McAfee Labs]()
-- [Microsoft Security Center]()
-- [National Cyber Security Alliance]()
-- [Norton Security Center]()
-- [SANS Computer Forensics]()
-- [SecTools.Org]()
-- [SSL Labs]()
+- [Apple Privacy](https://www.apple.com/privacy/)
+- [BackTrack Linux - Penetration Testing](https://www.backtrack-linux.org/)
+- [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/)
+- [EC Council](https://www.eccouncil.org/)
+- [Gibson Research Corporation](https://www.grc.com/)
+- [Google Safety Center](https://safety.google/security-privacy/)
+- [Insecure.Org](https://insecure.org/)
+- [Microsoft Security Response Center](https://www.microsoft.com/en-us/msrc)
+- [National Cyber Security Alliance](https://staysafeonline.org/)
+- [NMAP.Org](https://nmap.org/)
+- [Qualys SSL Labs](https://www.ssllabs.com/)
+- [SANS Digital Forensics and Incident Response](https://www.sans.org/digital-forensics-incident-response/)
+- [SecLists.Org](https://seclists.org/)
+- [SecTools.Org](https://sectools.org/)
+- [Wireshark](https://www.wireshark.org/)
 
 [Return to categories list.](#top)
 
@@ -218,15 +220,14 @@ title = "Bookmarks"
 
 ## Services 
 
-- [Audible]()
-- [Dropbox]()
-- [Evernote]()
-- [Gibson Research Corporation]()
-- [Google Drive]()
-- [iCloud]()
-- [Ninite]()
-- [OneDrive]()
-- [SquareSpace]()
+- [Audible](https://www.audible.com/)
+- [Amazon Web Services](https://aws.amazon.com/console/)
+- [Backblaze](https://www.backblaze.com/)
+- [Chocolatey - Package Manager for Windows](https://chocolatey.org/)
+- [Cloudflare](https://www.cloudflare.com/)
+- [Dropbox](https://www.dropbox.com/)
+- [Google Drive](https://drive.google.com/)
+- [iCloud](https://www.icloud.com/)
 
 [Return to categories list.](#top)
 
@@ -234,10 +235,12 @@ title = "Bookmarks"
 
 ## Shopping 
 
-- [Amazon]()
-- [eBay]()
-- [Newegg]()
-- [StackSocial]()
+- [Amazon](https://www.amazon.com/)
+- [Craigslist - Norfolk](https://norfolk.craigslist.org/)
+- [eBay](https://www.ebay.com/)
+- [Newegg](https://www.newegg.com/)
+- [OfferUp](https://offerup.com/)
+- [Shop Goodwill](https://shopgoodwill.com/)
 
 [Return to categories list.](#top)
 
@@ -245,9 +248,11 @@ title = "Bookmarks"
 
 ## Social 
 
-- [LinkedIn]()
-- [Mac Power Users Talk]()
-- [Reddit]()
+- [DEVONtechnologies Community](https://discourse.devontechnologies.com/)
+- [LinkedIn](https://www.linkedin.com/)
+- [Mac Power Users Talk](https://talk.macpowerusers.com/)
+- [Nextdoor](https://nextdoor.com/)
+- [Reddit](https://www.reddit.com/)
 
 [Return to categories list.](#top)
 
@@ -255,16 +260,17 @@ title = "Bookmarks"
 
 ## Spiritual 
 
-- [A Chronology of the Middle Ages]()
-- [American Theological Library Association]()
-- [Bible.com]()
-- [BibleGateway.com]()
-- [Biblia.com]()
-- [Food for the Hungry]()
-- [Reasonable Faith]()
-- [RightNow Media]()
-- [The Ecumenical Councils]()
-- [Theopedia]()
+- [A Chronology of the Middle Ages](https://www.thelatinlibrary.com/imperialism/notes/middleageschron.html)
+- [American Theological Library Association](https://www.atla.com/)
+- [Bible.com](https://www.bible.com/)
+- [BibleGateway.com](https://www.biblegateway.com/)
+- [Biblia.com](https://biblia.com/books/esv/1Jn5.3)
+- [Food for the Hungry](https://www.fh.org/)
+- [Logos Web App](https://app.logos.com/)
+- [Reasonable Faith](https://www.reasonablefaith.org/)
+- [RightNow Media](https://www.rightnowmedia.org/)
+- [The First Seven Ecumenical Councils](https://en.wikipedia.org/wiki/First_seven_ecumenical_councils)
+- [Theopedia](https://www.theopedia.com/)
 
 [Return to categories list.](#top)
 
@@ -282,6 +288,6 @@ title = "Bookmarks"
 
 ---
 
-Last validated on February 22, 2023.
+Last validated on March 2, 2023.
 
 
