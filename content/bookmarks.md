@@ -99,20 +99,18 @@ title = "Bookmarks"
 
 ## Food 
 
-- [Allrecipes]()
-- [America’s Test Kitchen]()
+- [America’s Test Kitchen](https://www.americastestkitchen.com/)
 - [Captain Chuck-A-Mucks](https://www.facebook.com/captainchuckamucks/)
-- [Cockeyed Rooster Cafe]()
-- [Cook's Illustrated]()
+- [Cockeyed Rooster Cafe](https://www.cockeyedroostercafe.com/)
+- [Cook's Illustrated](https://www.americastestkitchen.com/cooksillustrated)
 - [Cure Coffee House](https://www.curecoffeehouse.com/)
-- [Epicurious]()
-- [Fine Cooking]()
+- [Epicurious](https://www.epicurious.com/)
 - [La Parilla Mexican Grill](https://laparrillamexicangrill.us/)
-- [OpenTable]()
+- [OpenTable](https://www.opentable.com/)
 - [Papa John’s Pizza](https://www.papajohns.com/)
 - [Q Daddy's BBQ](https://www.qdaddysbbq.com/)
 - [Smithfield Station](https://smithfieldstation.com/)
-- [Starbucks Coffee Company]()
+- [Starbucks Coffee Company](https://www.starbucks.com/)
 - [Taste of Smithfield](https://www.tasteofsmithfield.com/)
 - [Taste Unlimited](https://www.tasteunlimited.com/)
 - [Tropical Smoothie Cafe](https://www.tropicalsmoothiecafe.com/)
@@ -124,16 +122,16 @@ title = "Bookmarks"
 
 ## Games 
 
-- [Bethesda]()
-- [BioWare]()
-- [Blizzard]()
-- [Electronic Arts]()
-- [Firaxis]()
-- [GOG]()
-- [Guild Wars 2]()
-- [Skyrim Wiki]()
-- [Steam]()
-- [Ubisoft]()
+- [Bethesda](https://bethesda.net/)
+- [BioWare](https://www.bioware.com/)
+- [Blizzard](https://www.blizzard.com/)
+- [Electronic Arts](https://www.ea.com/)
+- [Firaxis](https://firaxis.com/)
+- [GOG](https://www.gog.com/)
+- [Guild Wars 2](https://www.guildwars2.com/)
+- [Skyrim Wiki](https://skyrim.fandom.com/wiki/Skyrim_Wiki)
+- [Steam](https://store.steampowered.com/)
+- [Ubisoft](https://www.ubisoft.com/en-us/)
 
 [Return to categories list.](#top)
 
@@ -141,32 +139,17 @@ title = "Bookmarks"
 
 ## Learn 
 
-- [Adorama TV]()
-- [Analytics Academy]()
-- [Better Money Habits]()
-- [Big Nerd Ranch]()
-- [Canon Digital Learning Center]()
-- [Code.org]()
-- [CompTIA]()
-- [Coursera]()
-- [creativeLIVE]()
-- [DeVry University]()
-- [Ira Goldklang's TRS-80 Revived Site]()
-- [ISTE]()
-- [KelbyTraining.com]()
-- [Khan Academy]()
-- [Knewton]()
-- [Learning Creative Learning]()
-- [Microsoft Learning]()
-- [Microsoft Press FREE eBooks]()
-- [Mozilla Webmaker]()
-- [ProMetric]()
-- [Smart Sparrow]()
-- [TED - [Ideas Worth Spreading]()
-- [The Cape Town Open Education Declaration]()
-- [The eLearning Guild]()
-- [The Tongue Untied]()
-- [Udemy]()
+- [Adorama TV](https://www.adorama.com/alc/adorama-tv/)
+- [Canon Digital Learning Center](https://www.usa.canon.com/learning)
+- [Code.org](https://code.org/)
+- [CompTIA](https://www.comptia.org/)
+- [DeVry University](https://www.devry.edu/)
+- [ISTE](https://www.iste.org/)
+- [Khan Academy](https://www.khanacademy.org/)
+- [Learning Creative Learning](https://lcl.media.mit.edu/)
+- [ProMetric](https://www.prometric.com/)
+- [TED - Ideas Worth Spreading](https://www.ted.com/)
+- [The Learning Guild](https://www.learningguild.com/)
 
 [Return to categories list.](#top)
 
@@ -174,15 +157,13 @@ title = "Bookmarks"
 
 ## Products 
 
-- [AgileBits]()
-- [Bare Bones Software]()
-- [BusyCal]()
-- [Chronicle]()
-- [Helge's Switchblade]()
-- [Literature and Latte]()
-- [Noodlesoft Hazel]()
-- [Objective Development]()
-- [Path Finder]()
+- [1Password](https://1password.com/)
+- [Bare Bones Software](https://www.barebones.com/)
+- [Chronicle](https://chronicleapp.com/)
+- [Literature and Latte](https://www.literatureandlatte.com/)
+- [Noodlesoft Hazel](https://www.noodlesoft.com/)
+- [Objective Development](https://www.obdev.at/index.html)
+- [Path Finder](https://www.cocoatech.io/)
 
 [Return to categories list.](#top)
 
@@ -190,29 +171,26 @@ title = "Bookmarks"
 
 ## Radio Control 
 
-- [Academy of Model Aeronautics]()
-- [Atomik RC]()
-- [Big Squid RC]()
-- [Castle Creations]()
-- [Common Sense RC]()
-- [FliteTest]()
-- [HeliDirect]()
-- [Helifreak]()
-- [Hobby King]()
-- [Horizon Hobby]()
-- [Lynx Heli Innovations]()
-- [MIP RC Performance Parts and Tools]()
-- [Neport News Park RC Club]()
-- [Rakon Heli]()
-- [RC Groups]()
-- [RC Helicopter Fun]()
-- [RC Universe]()
-- [RPM RC Products]()
-- [Spektrum RC Technology]()
-- [Tower Hobbies]()
-- [Traxxas]()
-- [Venom Power]()
-- [WattFlyer]()
+- [Academy of Model Aeronautics](https://www.modelaircraft.org/)
+- [Big Squid RC](https://www.bigsquidrc.com/)
+- [Castle Creations](https://home.castlecreations.com/)
+- [Common Sense RC](https://commonsenserc.com/)
+- [FliteTest](https://www.flitetest.com/)
+- [HeliDirect](https://www.helidirect.com/)
+- [Helifreak](https://www.helifreak.com/)
+- [Hobby King](https://hobbyking.com/)
+- [Horizon Hobby](https://www.horizonhobby.com/)
+- [Lynx Heli Innovations](https://www.lynxheli.com/home.php)
+- [MIP RC Performance Parts and Tools](https://www.miponline.com/)
+- [Neport News Park RC Club](https://www.newportnewsrc.org/)
+- [Rakon Heli](https://www.rakonheli.com/)
+- [RC Groups](https://www.rcgroups.com/forums/index.php)
+- [RC Helicopter Fun](https://www.rchelicopterfun.com/)
+- [RC Universe](https://www.rcuniverse.com/forum/)
+- [RPM RC Products](https://www.rpmrcproducts.com/)
+- [Spektrum RC Technology](https://www.spektrumrc.com/)
+- [Traxxas](https://traxxas.com/)
+- [Venom Power](http://www.venombattery.com/)
 
 [Return to categories list.](#top)
 
@@ -220,18 +198,21 @@ title = "Bookmarks"
 
 ## Security 
 
-- [(ISC)²]()
-- [BackTrack Penetration Testing]()
-- [Comodo]()
-- [EC Council]()
-- [Google Safety Center]()
-- [Insecure.Org]()
-- [McAfee Labs]()
-- [Microsoft Security Center]()
-- [National Cyber Security Alliance]()
-- [Norton Security Center]()
-- [SANS Computer Forensics]()
-- [SecTools.Org]()
+- [Apple Privacy](https://www.apple.com/privacy/)
+- [BackTrack Linux - Penetration Testing](https://www.backtrack-linux.org/)
+- [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/)
+- [EC Council](https://www.eccouncil.org/)
+- [Gibson Research Corporation](https://www.grc.com/)
+- [Google Safety Center](https://safety.google/security-privacy/)
+- [Insecure.Org](https://insecure.org/)
+- [Microsoft Security Response Center](https://www.microsoft.com/en-us/msrc)
+- [National Cyber Security Alliance](https://staysafeonline.org/)
+- [NMAP.Org](https://nmap.org/)
+- [Qualys SSL Labs](https://www.ssllabs.com/)
+- [SANS Digital Forensics and Incident Response](https://www.sans.org/digital-forensics-incident-response/)
+- [SecLists.Org](https://seclists.org/)
+- [SecTools.Org](https://sectools.org/)
+- [Wireshark](https://www.wireshark.org/)
 
 [Return to categories list.](#top)
 
@@ -239,15 +220,14 @@ title = "Bookmarks"
 
 ## Services 
 
-- [Audible]()
-- [Dropbox]()
-- [Evernote]()
-- [Gibson Research Corporation]()
-- [Google Drive]()
-- [iCloud]()
-- [Ninite]()
-- [OneDrive]()
-- [SquareSpace]()
+- [Audible](https://www.audible.com/)
+- [Amazon Web Services](https://aws.amazon.com/console/)
+- [Backblaze](https://www.backblaze.com/)
+- [Chocolatey - Package Manager for Windows](https://chocolatey.org/)
+- [Cloudflare](https://www.cloudflare.com/)
+- [Dropbox](https://www.dropbox.com/)
+- [Google Drive](https://drive.google.com/)
+- [iCloud](https://www.icloud.com/)
 
 [Return to categories list.](#top)
 
@@ -255,10 +235,12 @@ title = "Bookmarks"
 
 ## Shopping 
 
-- [Amazon]()
-- [eBay]()
-- [Newegg]()
-- [StackSocial]()
+- [Amazon](https://www.amazon.com/)
+- [Craigslist - Norfolk](https://norfolk.craigslist.org/)
+- [eBay](https://www.ebay.com/)
+- [Newegg](https://www.newegg.com/)
+- [OfferUp](https://offerup.com/)
+- [Shop Goodwill](https://shopgoodwill.com/)
 
 [Return to categories list.](#top)
 
@@ -266,9 +248,11 @@ title = "Bookmarks"
 
 ## Social 
 
-- [LinkedIn]()
-- [Mac Power Users Talk]()
-- [Reddit]()
+- [DEVONtechnologies Community](https://discourse.devontechnologies.com/)
+- [LinkedIn](https://www.linkedin.com/)
+- [Mac Power Users Talk](https://talk.macpowerusers.com/)
+- [Nextdoor](https://nextdoor.com/)
+- [Reddit](https://www.reddit.com/)
 
 [Return to categories list.](#top)
 
@@ -276,16 +260,17 @@ title = "Bookmarks"
 
 ## Spiritual 
 
-- [A Chronology of the Middle Ages]()
-- [American Theological Library Association]()
-- [Bible.com]()
-- [BibleGateway.com]()
-- [Biblia.com]()
-- [Food for the Hungry]()
-- [Reasonable Faith]()
-- [RightNow Media]()
-- [The Ecumenical Councils]()
-- [Theopedia]()
+- [A Chronology of the Middle Ages](https://www.thelatinlibrary.com/imperialism/notes/middleageschron.html)
+- [American Theological Library Association](https://www.atla.com/)
+- [Bible.com](https://www.bible.com/)
+- [BibleGateway.com](https://www.biblegateway.com/)
+- [Biblia.com](https://biblia.com/books/esv/1Jn5.3)
+- [Food for the Hungry](https://www.fh.org/)
+- [Logos Web App](https://app.logos.com/)
+- [Reasonable Faith](https://www.reasonablefaith.org/)
+- [RightNow Media](https://www.rightnowmedia.org/)
+- [The First Seven Ecumenical Councils](https://en.wikipedia.org/wiki/First_seven_ecumenical_councils)
+- [Theopedia](https://www.theopedia.com/)
 
 [Return to categories list.](#top)
 
@@ -303,6 +288,6 @@ title = "Bookmarks"
 
 ---
 
-Last validated on February 22, 2023.
+Last validated on March 2, 2023.
 
 

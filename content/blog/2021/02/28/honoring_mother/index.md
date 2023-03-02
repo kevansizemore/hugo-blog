@@ -9,7 +9,7 @@ tags: ["reflection", "updates"]
 
 On February 28, 2021 my father, brother, sisters, and I gathered at my parent's log cabin home in Smithfield to write an obituary for my mother. As we shared memories and stories about mom's life, we celebrated her accomplishments and each of us contributed to the following acount honoring her memory:
 
-**Obituary of Bonnie Sue Byer Sizemore**<br/>*January 15, 1954 - February 26, 2021*
+**Obituary of Bonnie Sue Byer Sizemore** <br /> *January 15, 1954 - February 26, 2021*
 
 During the afternoon of February 26, 2021, Bonnie Sue Byer Sizemore passed away unexpectedly at her home in Smithfield, Virginia. Bonnie grew up in Covington along Virginia's scenic Alleghany mountains. She graduated from Alleghany County High School in 1972 and married her high-school sweetheart, Samuel Gene Sizemore.
 
