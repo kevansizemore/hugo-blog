@@ -5,7 +5,7 @@ description: "It was fun learning Gatsby and AWS Amplify, but I'm heading to Hug
 tags: ["technology","updates"]
 ---
 
-![The roofing framework of a large outdoor structure.](https://kmsmedia.s3.amazonaws.com/image/2023-02-24_switching_clouds_and_frameworks_again.png)
+![The roofing framework of a large outdoor structure.](https://kmsmedia.kevansizemore.com/image/2023-02-24_switching_clouds_and_frameworks_again.png)
 
 I've [written previously](https://kevansizemore.com/blog/2020/03/23/preserving-blog-history/) about consolidating blog posts from other platforms & social networks using Gatsby & AWS Amplify. Up until now, that approach worked very well at an attractive price point (free!). Alas, it was not meant to last. I received the following message from Amazon Web Services at the beginning of this month:
 

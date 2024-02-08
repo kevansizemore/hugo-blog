@@ -5,7 +5,7 @@ description: "Reflecting on the long-term: living and writing with evergreen val
 tags: ["reflection", "writing"]
 ---
 
-![Pine tree with vibrant green needles.](https://s3.amazonaws.com/kmsmedia/image/2012-04-03_evergreen-changes.png)
+![Pine tree with vibrant green needles.](https://kmsmedia.kevansizemore.com/image/2012-04-03_evergreen-changes.png)
 
 I recently read *10 Evergreen Strategies To Boost Your Freelance Writing Career* by Michael Chibuzor and it resonated with me on several levels. It surprised me how applicable this concept was to things other than writing!
 
