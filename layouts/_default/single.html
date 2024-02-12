@@ -17,11 +17,11 @@
 </content>
 <p>
 {{ if .PrevInSection }}
-<a href="{{.PrevInSection.Permalink}}">Previous Post</a>
+<a href="{{.PrevInSection.Permalink}}">Previous Post: {{.PrevInSection.LinkTitle}}</a>
 {{ end }}
-<br />
+<br /> <br />
 {{ if .NextInSection }}
-<a href="{{.NextInSection.Permalink}}">Next Post</a>
+<a href="{{.NextInSection.Permalink}}">Next Post: {{.PrevInSection.LinkTitle}}</a>
 {{ end }}
 </p>
 {{ end }}
