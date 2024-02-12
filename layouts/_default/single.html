@@ -16,9 +16,9 @@
   {{ .Content }}
 </content>
 {{ if .PrevInSection }}
-<p>Previous Post: <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}</a></p>
+<p><span class="xtrabold">&lt;</span> Previous Post: <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}</a></p>
 {{ end }}
 {{ if .NextInSection }}
-<p class="right">Next Post: <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}</a></p>
+<p><span class="xtrabold">&gt;</span> Next Post: <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}</a></p>
 {{ end }}
 {{ end }}
