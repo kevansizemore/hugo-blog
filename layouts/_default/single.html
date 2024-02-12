@@ -15,4 +15,10 @@
 <content>
   {{ .Content }}
 </content>
+{{ if .PrevInSection }}
+<p>&larr; Previous Post: <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}</a></p>
+{{ end }}
+{{ if .NextInSection }}
+<p>&rarr; Next Post: <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}</a></p>
+{{ end }}
 {{ end }}
