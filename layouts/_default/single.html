@@ -15,15 +15,10 @@
 <content>
   {{ .Content }}
 </content>
-<p>
 {{ if .PrevInSection }}
-Previous Post: <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}</a>
+<p>Previous Post: <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}</a></p>
 {{ end }}
-<br /> <br />
 {{ if .NextInSection }}
-<span class="right">
-Next Post: <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}</a>
+<p class="right">Next Post: <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}</a></p>
 {{ end }}
-</span>
-</p>
 {{ end }}
