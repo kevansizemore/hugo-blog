@@ -16,3 +16,12 @@
   {{ .Content }}
 </content>
 {{ end }}
+<p>
+{{ if .PrevInSection }}
+<a href="{{.PrevInSection.Permalink}}">Previous Post</a>
+{{ end }}
+<br />
+{{ if .NextInSection }}
+<a href="{{.NextInSection.Permalink}}">Next Post</a>
+{{ end }}
+</p>
