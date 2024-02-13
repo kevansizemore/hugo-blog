@@ -17,7 +17,7 @@ My interests include archery, collecting, cooking, education, gaming, illustrati
 
 ## Around the Internet
 
-Searching for me on [Google](https://www.google.com/search?as_epq=kevan+sizemore) or [Bing](https://www.bing.com/search?q=%2bkevan+sizemore) yields mixed results at best. There are plenty of people with similar names and a plethora of services that offer to sell information about me. I avoid most popular [(anti)social networks](https://kevansizemore.com/blog/2020/08/01/quitting-antisocial-media/) like Facebook, Instagram, TikTok, <s>Twitter</s> X, and the like. 
+Searching for me on [Google](https://www.google.com/search?as_epq=kevan+sizemore) or [Bing](https://www.bing.com/search?q=%2bkevan+sizemore) yields mixed results at best. There are plenty of people with similar names and a plethora of services that offer to sell information about me. I avoid most popular [(anti)social networks](https://kevansizemore.com/blog/2020/08/01/quitting-antisocial-media/) like Facebook, Instagram, TikTok, ~~Twitter~~ X, and the like. 
 
 For your convenience, I have listed my "official" online personas below. If you find a persona or profile on a social network or elsewhere on the Internet that looks like me, consider it with skepticism and suspicion. It's not something I authorized or created and it may be inaccurate or incomplete. If you can't find what you need to know on this site or by using the links below, feel free to [ask via email](mailto:kevan.sizemore@gmail.com).
 
