@@ -1,8 +1,8 @@
 ---
 title: "Learn About Living from Leaves"
 date: "2023-11-24"
-description: Leaves have much to teach us about living life well."
-tags: ["technology","updates"]
+description: "Leaves have much to teach us about living life well."
+tags: ["reflection"]
 ---
 
 ![A bright yellow, red, and orange leaf on a paved road.](https://kmsmedia.kevansizemore.com/image/2023-11-24_learn_from_the_leaves.png)
