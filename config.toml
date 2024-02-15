@@ -23,3 +23,6 @@ ignoreErrors = ["error-disable-taxonomy"]
   description = "This site is a great place to learn more about me, some of my creative or technical projects, publications, and social networks. Thank you for visiting."
   favicon = "images/favicon.png"
 
+[services]
+  [services.rss]
+    limit = 42
