@@ -7,7 +7,7 @@ tags: ["reflection", "theology"]
 
 ![A vivid rainbow arching over green trees.](https://kmsmedia.kevansizemore.com/image/2014-06-04_respite_from_worry_and_guilt.png)
 
-I came across a great quote while reading an interview with Shailene Woodly in *Time* magazine:
+I came across a great quote while reading an interview with Shailene Woodley in *Time* magazine:
 
 > "I've realized that worry is the product of a future we cannot guarantee and guilt is the product of a past we cannot change."
 
