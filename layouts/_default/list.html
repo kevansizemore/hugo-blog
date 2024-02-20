@@ -32,14 +32,14 @@
 	  {{ end }}
 	<br /><br />
     </p>
-    <p>
-    {{ template "_internal/pagination.html" . }}
-    </p>
     {{ else }}
     <li>
       No posts yet
     </li>
     {{ end }}
   </ul>
+  <p>
+  {{ template "_internal/pagination.html" . }}
+  </p>
 </content>
 {{ end }}
