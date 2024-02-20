@@ -9,6 +9,7 @@ enableRobotsTXT = true
 
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
+paginate = 10
 
 [permalinks]
   blog = "/blog/:year/:month:/:day/:slug/"

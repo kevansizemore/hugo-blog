@@ -17,7 +17,8 @@
   <hr />
   <br />
   <ul class="blog-posts">
-    {{ range .Pages }}
+	{{ $paginator := .Paginate .Pages }}
+    {{ range $paginator.Pages }}
     <p>
       <a href="{{ .Permalink }}" class="blog-list-title">{{ .Title }}</a><br />
       {{ .Page.Description }}<br />
@@ -37,11 +38,8 @@
     </li>
     {{ end }}
   </ul>
-  {{ if .Data.Singular }}
-  {{else}}
-  <p>
-  <strong>Congratulations!</strong> You've reached the end of my blog post listing. You've ventured beyond where most readers travel. This paragraph rejoices becauses you've illuminated its long-hidden existence with your presence!
-  </p>
-  {{ end }}
 </content>
+<div class="nav">
+{{ template "_internal/pagination.html" . }}
+</div>
 {{ end }}
