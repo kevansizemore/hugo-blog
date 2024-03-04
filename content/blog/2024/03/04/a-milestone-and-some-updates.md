@@ -37,7 +37,7 @@ I've implemented some changes and improvements to [my current blogging technolog
 - added pagination (10 items/page) to the blog article index
 - clarified/updated content on the 'Profile' page
 - customized the '404 error' page (attempted to add some humor)
-- expanded the RSS feed to include entire articles instead of summaries
+- expanded the [RSS feed](https://kevansizemore.com/index.xml) to include entire articles instead of summaries
 - modified the text styling for list items
 - removed extraneous content
 
