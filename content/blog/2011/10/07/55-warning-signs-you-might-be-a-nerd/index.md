@@ -76,7 +76,7 @@ If you'd like to share the fun with others, try this:
 - Have each person claim 1 point per nerd characteristic that's true
 - Total & compare scores to see who's most in danger of being labeled a "nerd"
 
-I've probably missed a few things in this list (yes, my opinion is inherently flawed and I don't want to hear about it). Feel free to use any portion or the entirety of this list however you wish. If you do something interesting with it, I would be cool if you let me know about it. :-)
+I've probably missed a few things in this list (yes, my opinion is inherently flawed and I don't want to hear about it). Feel free to use any portion or the entirety of this list however you wish. If you do something interesting with it, it would be cool if you let me know about it. :-)
 
 Don't worry, nerd is a *term of endearment* (or at least, that's what I've been told). Enjoy!
 

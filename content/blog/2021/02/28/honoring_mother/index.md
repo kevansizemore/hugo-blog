@@ -9,7 +9,8 @@ tags: ["reflection", "updates"]
 
 On February 28, 2021 my father, brother, sisters, and I gathered at my parent's log cabin home in Smithfield to write an obituary for my mother. As we shared memories and stories about mom's life, we celebrated her accomplishments and each of us contributed to the following acount honoring her memory:
 
-**Obituary of Bonnie Sue Byer Sizemore** <br /> *January 15, 1954 - February 26, 2021*
+**Obituary of Bonnie Sue Byer Sizemore**   
+*January 15, 1954 - February 26, 2021*
 
 During the afternoon of February 26, 2021, Bonnie Sue Byer Sizemore passed away unexpectedly at her home in Smithfield, Virginia. Bonnie grew up in Covington along Virginia's scenic Alleghany mountains. She graduated from Alleghany County High School in 1972 and married her high-school sweetheart, Samuel Gene Sizemore.
 
@@ -23,16 +24,16 @@ Bonnie was preceded in death by her parents Rodney Earl Byer and Lee Ella Elling
 
 Bonnie's family will celebrate her life at a private service in Covington. The family welcomes cards, letters, or phone calls; instead of sending flowers, please consider donating in Bonnie's memory to either of the following: 
 
-Liberty Baptist Church Choir<br/>
-1021 Big Bethel Rd.<br/>
-Hampton, VA 23666<br/>
-(757) 826-2110<br/>
+Liberty Baptist Church Choir   
+1021 Big Bethel Rd.   
+Hampton, VA 23666   
+(757) 826-2110   
 [https://libertylive.church](https://libertylive.church)
 
-Suffolk Humane Society<br/>
-412 Kings Fork Rd.<br/>
-Suffolk, VA 23434<br/>
-(757) 538-3030<br/>
+Suffolk Humane Society   
+412 Kings Fork Rd.   
+Suffolk, VA 23434   
+(757) 538-3030   
 [https://www.suffolkhumanesociety.com](https://www.suffolkhumanesociety.com)
 
 Online condolences may be registered at: [https://www.littlesfuneralhome.com/obituary/bonnie-sizemore](https://www.littlesfuneralhome.com/obituary/bonnie-sizemore)
