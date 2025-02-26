@@ -1,6 +1,7 @@
-<a href="{{ "/blog" | relURL }}" class="title">
-  <h1>{{ .Site.Title }}</h1>
-</a>
+{{ with .Site.GetPage "/blog" }}
+<a href="{{ .RelPermalink }}" class="title"><h1>{{ .Site.Title }}</h1></a>
+{{ end }}
+
 <nav>{{- partial "nav.html" . -}}</nav>
 <p>
 	Written by <strong>{{ .Site.Params.author }}</strong>.<br />
